@@ -1,2 +1,3 @@
-# solidity
-Learning solidity 
+# Solidity
+
+IDE: Remix - Ethereum IDE
